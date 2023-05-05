@@ -7,7 +7,7 @@
 
 ## Hi there 👋,
 
-### I'm Segni Desta, I am a community guy who loves tech and see myself as tech enthusiast.
+### I'm Segni Desta, I am MERN Stack developer and Competitive Programmer who loves  programming and tech in general.
 -------
   
 ## 🧐 About
