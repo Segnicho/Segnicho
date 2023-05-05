@@ -7,7 +7,7 @@
 
 ## Hi there 👋,
 
-### I'm Segni Desta, I am MERN Stack developer and Competitive Programmer who loves  programming and tech in general.
+### I'm Segni Desta, MERN Stack developer and Competitive Programmer who loves  programming and tech in general.
 -------
   
 ## 🧐 About
@@ -19,7 +19,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me on [Telegram](https://Segnicho.t.me/)
+- 📫 How to reach me: message me on [Email](mailto:segnidesta60@gmail.com)
 - ⚡ Fun fact: I love meeting new people and watching podcasts!
 
 
