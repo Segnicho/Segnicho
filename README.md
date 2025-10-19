@@ -12,7 +12,7 @@
   
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and is Life long learner
+- 🏄‍ A guy who loves being involved in projects and is Life long learner
 - 😄 I am working on cool nextjs projects and learning advanced topics.
 - 🔭 I am competitive programmer and I am seeking an internship at big tech companies.
 
